@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LA-Crime-Predictor/static/css/main.6806f2bb.chunk.css",
-    "main.js": "/LA-Crime-Predictor/static/js/main.8e08a2d5.chunk.js",
-    "main.js.map": "/LA-Crime-Predictor/static/js/main.8e08a2d5.chunk.js.map",
-    "runtime-main.js": "/LA-Crime-Predictor/static/js/runtime-main.6263ccc4.js",
-    "runtime-main.js.map": "/LA-Crime-Predictor/static/js/runtime-main.6263ccc4.js.map",
-    "static/js/2.11caf371.chunk.js": "/LA-Crime-Predictor/static/js/2.11caf371.chunk.js",
-    "static/js/2.11caf371.chunk.js.map": "/LA-Crime-Predictor/static/js/2.11caf371.chunk.js.map",
-    "index.html": "/LA-Crime-Predictor/index.html",
-    "precache-manifest.be09d30c313aceecba7abc52670daeca.js": "/LA-Crime-Predictor/precache-manifest.be09d30c313aceecba7abc52670daeca.js",
-    "service-worker.js": "/LA-Crime-Predictor/service-worker.js",
-    "static/css/main.6806f2bb.chunk.css.map": "/LA-Crime-Predictor/static/css/main.6806f2bb.chunk.css.map",
-    "static/media/App.css": "/LA-Crime-Predictor/static/media/LA-city1.63ebbabb.jpg",
-    "static/media/plot.svg": "/LA-Crime-Predictor/static/media/plot.fe62e76d.svg"
+    "main.css": "/Crime-Predictor-App/static/css/main.d6f770eb.chunk.css",
+    "main.js": "/Crime-Predictor-App/static/js/main.5be7dc28.chunk.js",
+    "main.js.map": "/Crime-Predictor-App/static/js/main.5be7dc28.chunk.js.map",
+    "runtime-main.js": "/Crime-Predictor-App/static/js/runtime-main.b07ee733.js",
+    "runtime-main.js.map": "/Crime-Predictor-App/static/js/runtime-main.b07ee733.js.map",
+    "static/js/2.11caf371.chunk.js": "/Crime-Predictor-App/static/js/2.11caf371.chunk.js",
+    "static/js/2.11caf371.chunk.js.map": "/Crime-Predictor-App/static/js/2.11caf371.chunk.js.map",
+    "index.html": "/Crime-Predictor-App/index.html",
+    "precache-manifest.676a4927d5389a37cab194a647753d77.js": "/Crime-Predictor-App/precache-manifest.676a4927d5389a37cab194a647753d77.js",
+    "service-worker.js": "/Crime-Predictor-App/service-worker.js",
+    "static/css/main.d6f770eb.chunk.css.map": "/Crime-Predictor-App/static/css/main.d6f770eb.chunk.css.map",
+    "static/media/App.css": "/Crime-Predictor-App/static/media/LA-city1.63ebbabb.jpg",
+    "static/media/plot.svg": "/Crime-Predictor-App/static/media/plot.fe62e76d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6263ccc4.js",
+    "static/js/runtime-main.b07ee733.js",
     "static/js/2.11caf371.chunk.js",
-    "static/css/main.6806f2bb.chunk.css",
-    "static/js/main.8e08a2d5.chunk.js"
+    "static/css/main.d6f770eb.chunk.css",
+    "static/js/main.5be7dc28.chunk.js"
   ]
 }
